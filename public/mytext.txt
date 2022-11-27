@@ -1,0 +1,49 @@
+ 
+  [
+{
+"_id": "6382294ce0c07b1a4dd8d948",
+"seller": "Shohag Roy",
+"sellerEmail": "shohag@gmail.com",
+"productName": "Apple iPhone 12",
+"category": "Apple",
+"condition": "Excellent",
+"marcketPrice": "1150",
+"sellPrice": "700",
+"purchaseDate": "1 Year",
+"location": "Rangpur, Bangladesh",
+"phone": "01712121212",
+"images": "https://i.ibb.co/w4L2z0J/Apple-iphone-12.jpg",
+"description": "<p><strong>First Release&nbsp;&nbsp;&nbsp;October 23, 2020</strong></p><p><strong>Colors&nbsp;&nbsp;&nbsp;</strong>Black</p><p>&nbsp;<strong>Connectivity&nbsp;&nbsp;&nbsp;</strong></p><p>Network&nbsp;&nbsp;&nbsp;2G, 3G, 4G, 5G</p><p>USB&nbsp;&nbsp;&nbsp;Lightning, USB 2.0</p><p>OTG&nbsp;&nbsp;&nbsp;?</p><p>USB Type-C&nbsp;&nbsp;&nbsp;? (Proprietary reversible connector)<strong>&nbsp;&nbsp;</strong></p><p>Weight&nbsp;&nbsp;&nbsp;164 grams</p><p>&nbsp;<strong><em><u>Display&nbsp;&nbsp;&nbsp;</u></em></strong></p><p>Size&nbsp;&nbsp;&nbsp;6.1 inches</p><p>Resolution&nbsp;&nbsp;&nbsp;Quad HD+ 1170 x 2532 pixels (460 ppi)</p><p>Technology&nbsp;&nbsp;&nbsp;Super Retina XDR OLED Touchscreen</p><p>&nbsp;<strong>Back Camera&nbsp;&nbsp;&nbsp;</strong></p><p>Resolution&nbsp;&nbsp;&nbsp;Dual 12+12 Megapixel</p><p>Features&nbsp;&nbsp;&nbsp;Dual Pixel PDAF, OIS, quad-LED flash, ultrawide, &amp; more</p><p>Video Recording&nbsp;&nbsp;&nbsp;Ultra HD 4K (2160p), Dolby Vision HDR, stereo sound rec.</p><p>&nbsp;<strong>Front Camera&nbsp;&nbsp;&nbsp;</strong></p><p>Resolution&nbsp;&nbsp;&nbsp;Dual 12 Megapixel + SL 3D</p><p>Features&nbsp;&nbsp;&nbsp;F/2.2, HDR, depth / biometrics sensor</p><p>Video Recording&nbsp;&nbsp;&nbsp;4K (2160p), gyro-EIS</p><p>&nbsp;<strong>Battery&nbsp;&nbsp;&nbsp;</strong></p><p>Type and Capacity&nbsp;&nbsp;&nbsp;Lithium-ion (non-removable)</p><p>Fast Charging&nbsp;&nbsp;&nbsp;? 18W Fast Charging </p><p>USB Power Delivery 2.0</p><p>Wireless Charging&nbsp;&nbsp;&nbsp;? Fast Wireless Charging (15W MagSafe, 7.5W Qi)</p><p>&nbsp;<strong><em><u>Performance&nbsp;&nbsp;&nbsp;</u></em></strong></p><p>Operating System&nbsp;&nbsp;&nbsp;iOS 14</p><p>Chipset&nbsp;&nbsp;&nbsp;Apple A14 Bionic (5 nm)</p><p>RAM&nbsp;&nbsp;&nbsp;6 GB</p><p>Processor&nbsp;&nbsp;&nbsp;Hexa-core</p><p>&nbsp;<strong>Storage&nbsp;&nbsp;&nbsp;</strong></p><p>ROM&nbsp;&nbsp;&nbsp;64 / 128 / 256 GB (NVMe)</p>",
+"postDate": "11/26/2022",
+"postDay": "2022-11-26T14:57:15.842Z",
+"isBooked": true,
+"isBoosted": true,
+"verifyUser": true,
+"customerEmail": "amit@roy.com",
+"paymentStatus": "PAID",
+"transactionId": "pi_3M8WiFK7Eu6wmtl51WfkrgR7"
+},
+{
+"_id": "63823cf46b1865c3094bcdef",
+"seller": "Niloy Sing",
+"sellerEmail": "niloy@sing.com",
+"productName": "Samsung Galaxy A32",
+"category": "Samsung",
+"condition": "Excellent",
+"marcketPrice": "200",
+"sellPrice": "180",
+"purchaseDate": "10 Month",
+"location": "Dhaka, Bangladesh",
+"phone": "01712334433",
+"images": "https://i.ibb.co/nzL1bGx/Samsung-Galaxy-A32-image.jpg",
+"description": "<p><strong>First Release&nbsp;&nbsp;&nbsp;February 25, 2021</strong></p><p><strong>Colors: </strong> Awesome Violet</p><p>&nbsp;<strong>Connectivity&nbsp;&nbsp;&nbsp;</strong></p><p>Network&nbsp;&nbsp;&nbsp;2G, 3G, 4G</p><p>USB&nbsp;&nbsp;&nbsp;v2.0</p><p>OTG&nbsp;&nbsp;&nbsp;?</p><p>USB Type-C&nbsp;&nbsp;&nbsp;?</p><p>Weight&nbsp;&nbsp;&nbsp;184 grams</p><p>&nbsp;<strong>Display&nbsp;&nbsp;&nbsp;</strong></p><p>Size&nbsp;&nbsp;&nbsp;6.4 inches</p><p>Resolution&nbsp;&nbsp;&nbsp;Full HD+ 1080 x 2400 pixels (411 ppi)</p><p>Technology&nbsp;&nbsp;&nbsp;Super AMOLED Touchscreen</p><p>Protection&nbsp;&nbsp;&nbsp;?</p><p>Features&nbsp;&nbsp;&nbsp;90Hz refresh rate, 800 nits (max)</p><p>&nbsp;<strong>Back Camera&nbsp;&nbsp;&nbsp;</strong></p><p>Resolution&nbsp;&nbsp;&nbsp;Quad 64+8+5+5 Megapixel</p><p>Features&nbsp;&nbsp;&nbsp;PDAF, macro, 123º ultrawide, depth, LED flash &amp; more</p><p>Video Recording&nbsp;&nbsp;&nbsp;Full HD (1080p)</p><p>&nbsp;<strong>Front Camera&nbsp;&nbsp;</strong>&nbsp;</p><p>Resolution&nbsp;&nbsp;&nbsp;20 Megapixel</p><p>Features&nbsp;&nbsp;&nbsp;F/2.2 aperture</p><p>Video Recording&nbsp;&nbsp;&nbsp;Full HD (1080p)</p><p>&nbsp;<strong>Battery&nbsp;&nbsp;&nbsp;</strong></p><p>Type and Capacity&nbsp;&nbsp;&nbsp;Lithium-polymer 5000 mAh (non-removable)</p><p>Fast Charging&nbsp;&nbsp;&nbsp;? 15W Fast Charging</p><p>&nbsp;<strong>Performance&nbsp;&nbsp;&nbsp;</strong></p><p>Operating System&nbsp;&nbsp;&nbsp;Android 11 (One UI 3.1)</p><p>Chipset&nbsp;&nbsp;&nbsp;Mediatek Helio G80 (12 nm)</p><p>RAM&nbsp;&nbsp;&nbsp;6 GB</p><p>Processor&nbsp;&nbsp;&nbsp;Octa core, up to 2.0 GHz</p><p>&nbsp;<strong>Storage&nbsp;&nbsp;&nbsp;</strong></p><p>ROM&nbsp;&nbsp;&nbsp;128 GB</p>",
+"postDate": "11/26/2022",
+"postDay": "2022-11-26T16:21:08.111Z",
+"isBooked": true,
+"isBoosted": true,
+"verifyUser": true,
+"customerEmail": "amit@roy.com"
+}
+]
+  
+  
